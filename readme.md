@@ -3,7 +3,6 @@
 Api Generador de Datos
 Basada en el Nivel 1
 Autor: Edwards Coll
-Email: edwardscr@hotmail.com / edwardsbcr@gmail.com
 Script realizando en Python Ver. 3.7.3
 
 
